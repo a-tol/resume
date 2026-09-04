@@ -1,2 +1,2 @@
-# atol.github.io
-Literally just my resume. Thanks for the storage, GitHub.
+# Resume
+It's just my resume. Thanks for the storage, GitHub.
